@@ -1,4 +1,6 @@
-package com.hotel;
+// Hotel Management System - Main Entry Point
+// Created by Francis Outa
+// Version 1.0package com.hotel;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
